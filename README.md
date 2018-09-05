@@ -1,4 +1,4 @@
-# ACTrafficPlus ![ci](https://travis-ci.org/corneliouzbett/traffic-corruption-management.svg?branch=master)
+# AC Traffic Plus ![ci](https://travis-ci.org/corneliouzbett/traffic-corruption-management.svg?branch=master)
 This application was generated using JHipster 5.3.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.1](https://www.jhipster.tech/documentation-archive/v5.3.1).
 
 ## Development
